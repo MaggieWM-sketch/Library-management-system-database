@@ -1,7 +1,4 @@
 # Library-management-system-database
-# Library Management System Database
-
-![Database ER Diagram](ERD/library_erd.png)
 
 ## Project Description
 A complete relational database for managing library operations including:
