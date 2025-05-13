@@ -9,6 +9,10 @@ A complete relational database for managing library operations including:
 - Fine calculations
 - Staff management
 
+  
+![Database ER Diagram](ERD/library_erd.png)
+
+
 ## Database Features
 - 12 normalized tables with proper relationships
 - Comprehensive constraints and data validation
